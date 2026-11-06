@@ -2,8 +2,9 @@
 
 Bu depo, **BRHN PDF** uygulamasının resmi dağıtım ve çevrimiçi güncelleme alanıdır.
 
-- **Güncel Sürüm:** v1.4.7
+- **Güncel Sürüm:** v1.4.9
 - Son yapılan Güncellemeler:
+- **Kapsamlı Denetim Sonucu gerekli Güncellemeler ve Hata Düzeltmeleri yapıldı.
 - **1-sıkıştırma oranı (% kaç oranında sıkıştırıldığı) gösterimi PDF Küçültme sayfasına eklendi.
 - **2-Birden fazla dosya sıkıştırılırken her dosyanın hizasında yer alacak özel "✕ İptal" butonu PDF Küçültme tablosuna eklenmiştir.
 - **3-Gezinti bölmesinin sağ tarafında açılan dosya ayrıntıları listesi, "Ad" ve "Boyut" sütunları görünecek şekilde sadeleştirildi.
